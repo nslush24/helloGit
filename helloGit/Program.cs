@@ -10,6 +10,7 @@ namespace helloGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is a GitHub Solution.");
         }
     }
 }
